@@ -38,6 +38,8 @@ To execute the application you need to locate the directory in which you have do
 <dir> python app.py
 ```
 
+The folder doesn't include data. This must be included by the user. The code uses Adjusted Return and ESG scores for stocks.
+
 This will start a local host in your terminal that you can then open. Please be advised that there can be some latency on the start up. Please have patience.
 
 ## Disclaimer
